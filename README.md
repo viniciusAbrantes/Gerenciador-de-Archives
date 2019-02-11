@@ -14,7 +14,7 @@ estes permite inserir, listar, extrair e remover arquivos.
 ## Desenvolvedores:
 O sistema foi desenvolvido pelo seguinte grupo:
 - [Alfredo Albélis](https://github.com/AlfredoFilho)
-- Cléofas Peres Santos
+- Cléofas Peres
 - [Vinícius Abrantes](https://github.com/viniciusAbrantes)
 
 Para verificar a descrição completa do projeto e os detalhes da solução proposta pelo grupo, consulte "Relatório.pdf"
