@@ -1,4 +1,4 @@
-# Gerenciador-de-Archives
+# IISÃO GERAL
 Projeto desenvolvido para disciplina ST562 – Estrutura de Arquivos. O trabalho consiste na
 implementação de um arquivador (programa gerenciador de archives). A solução foi desenvolvida
 usando a linguagem de programação C para ser executado via prompt do Windows.
